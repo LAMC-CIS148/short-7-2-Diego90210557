@@ -19,7 +19,7 @@ a:focus, a:hover {
 }
 a{
 	style:rectangular;
-	border:2px black;
+	border:3px solid black;
 	box-shadow:#800000;
 	link-color:#800000;
 	background-image:right.jpg;
